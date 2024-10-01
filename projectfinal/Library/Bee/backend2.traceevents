@@ -1,0 +1,229 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1708300140452431, "dur":16245, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708300140468682, "dur":81, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708300140468796, "dur":191, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708300140470097, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708300140470299, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708300140470358, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708300140470511, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708300140470588, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708300140470644, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708300140469006, "dur":4573, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708300140473581, "dur":548528, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708300141022111, "dur":730, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708300141023425, "dur":6169, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1708300140469869, "dur":3749, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708300140473619, "dur":307, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708300140473926, "dur":159, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708300140474085, "dur":345, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708300140474430, "dur":901, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708300140475345, "dur":31782, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708300140507130, "dur":257, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1708300140507467, "dur":53, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708300140512391, "dur":9288, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1708300140521758, "dur":22956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1708300140547616, "dur":41947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1708300140589637, "dur":4616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1708300140594309, "dur":11260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1708300140609677, "dur":8144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1708300140617848, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mixi/Desktop/CarRace/exe/projectfinal.exe" }}
+,{ "pid":12345, "tid":1, "ts":1708300140617910, "dur":1173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal.exe" }}
+,{ "pid":12345, "tid":1, "ts":1708300140622426, "dur":34306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1708300140656865, "dur":17843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140674863, "dur":2938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140682398, "dur":152, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708300140677856, "dur":4751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140682671, "dur":3873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140686624, "dur":6607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140693293, "dur":1024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140694363, "dur":7592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140701994, "dur":1001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140703046, "dur":8414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140711579, "dur":4747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140716400, "dur":5286, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140721735, "dur":5362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140741430, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708300140727135, "dur":14357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140741578, "dur":1627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140743234, "dur":1230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140746882, "dur":190, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708300140744504, "dur":2593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140748131, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708300140747155, "dur":1057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140748254, "dur":2292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140750601, "dur":34766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140809392, "dur":6861, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708300140785532, "dur":31090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140820502, "dur":95, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708300140820665, "dur":5278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140825993, "dur":1671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140829327, "dur":177, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708300140827752, "dur":1789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140829704, "dur":1445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140831197, "dur":1346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140832594, "dur":3170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140835808, "dur":1829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140837678, "dur":1154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140838874, "dur":1129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140840122, "dur":1125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708300140841292, "dur":2122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":1, "ts":1708300140843474, "dur":2067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":1, "ts":1708300140845609, "dur":2660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1708300140848388, "dur":110, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708300140848502, "dur":1306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1708300140849930, "dur":1963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1708300140851943, "dur":705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/level1" }}
+,{ "pid":12345, "tid":1, "ts":1708300140852693, "dur":603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/level0" }}
+,{ "pid":12345, "tid":1, "ts":1708300140853341, "dur":2614, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1708300140855992, "dur":166074, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708300140469809, "dur":3777, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708300140473589, "dur":1741, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708300140476457, "dur":357, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":2, "ts":1708300140476819, "dur":64, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1708300140476890, "dur":4257, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1708300140481162, "dur":94, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1708300140481449, "dur":102, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mixi\\Desktop\\CarRace\\projectfinal\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140481552, "dur":151, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mixi\\Desktop\\CarRace\\projectfinal\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140481704, "dur":203, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mixi\\Desktop\\CarRace\\projectfinal\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140481908, "dur":268, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mixi\\Desktop\\CarRace\\projectfinal\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140482177, "dur":444, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mixi\\Desktop\\CarRace\\projectfinal\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140482622, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mixi\\Desktop\\CarRace\\projectfinal\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140482681, "dur":221, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mixi\\Desktop\\CarRace\\projectfinal\\Library\\Bee\\PlayerScriptAssemblies\\Cinemachine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140482903, "dur":279, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mixi\\Desktop\\CarRace\\projectfinal\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140483183, "dur":133, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mixi\\Desktop\\CarRace\\projectfinal\\Library\\PackageCache\\com.unity.visualscripting@1.9.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140483396, "dur":113, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playerd2cebeec-inputdata.json" }}
+,{ "pid":12345, "tid":2, "ts":1708300140476817, "dur":6787, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1708300140508064, "dur":176944, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1708300140687908, "dur":19908, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1708300140687907, "dur":19910, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1708300140707836, "dur":913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1708300140708832, "dur":12772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140721668, "dur":118, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708300140721788, "dur":4714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140726572, "dur":3465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140730061, "dur":11797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140741884, "dur":1979, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140743921, "dur":1648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140745622, "dur":2161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140749933, "dur":294, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708300140747827, "dur":2413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140788403, "dur":725, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708300140750278, "dur":39006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140810573, "dur":5766, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708300140789445, "dur":27046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140820016, "dur":113, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708300140816688, "dur":3465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140820277, "dur":2474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140822818, "dur":4435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140827740, "dur":9322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140837235, "dur":1447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140838794, "dur":1238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140840072, "dur":984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140857232, "dur":85, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708300140841096, "dur":16265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708300140857388, "dur":164426, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708300140469848, "dur":3749, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708300140473600, "dur":222, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708300140473822, "dur":158, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708300140473981, "dur":293, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708300140474274, "dur":1058, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708300140475928, "dur":87837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1708300140563843, "dur":13339, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1708300140577549, "dur":11769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1708300140589373, "dur":4449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1708300140593854, "dur":71, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708300140593989, "dur":10097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1708300140604134, "dur":6506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1708300140614113, "dur":74112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140688270, "dur":5384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140693687, "dur":1454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140695186, "dur":8268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140703485, "dur":8680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140712215, "dur":9601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140726187, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708300140721870, "dur":4436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140726337, "dur":3542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140729921, "dur":10280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140740301, "dur":1986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140742323, "dur":983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140743328, "dur":1499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140744872, "dur":2464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140747420, "dur":1767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140749216, "dur":33640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140782998, "dur":16308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140812880, "dur":3534, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708300140799438, "dur":17081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140816645, "dur":5351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140822110, "dur":2015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140824173, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140824394, "dur":5560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140830055, "dur":1353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140831474, "dur":1335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140832847, "dur":2275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140836626, "dur":64, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708300140835173, "dur":1538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140838781, "dur":179, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708300140836777, "dur":2259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140839174, "dur":3275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708300140842709, "dur":3200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1708300140846000, "dur":1976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1708300140848046, "dur":1016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1708300140849114, "dur":1257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1708300140850426, "dur":1269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/resources.assets" }}
+,{ "pid":12345, "tid":3, "ts":1708300140851752, "dur":803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/level1.resS" }}
+,{ "pid":12345, "tid":3, "ts":1708300140852608, "dur":731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1708300140853386, "dur":848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1708300140854290, "dur":1668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1708300140855995, "dur":165837, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708300140469818, "dur":3772, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708300140473596, "dur":225, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708300140473822, "dur":266, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708300140474088, "dur":1245, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708300140516740, "dur":19684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1708300140536489, "dur":15859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1708300140552401, "dur":18865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1708300140571416, "dur":6031, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1708300140577599, "dur":12007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1708300140593478, "dur":85, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708300140589643, "dur":3981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1708300140593736, "dur":813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1708300140594597, "dur":15737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1708300140614122, "dur":14446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140628693, "dur":28540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140657341, "dur":16399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140673852, "dur":3794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140682489, "dur":273, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708300140677739, "dur":5039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140682834, "dur":4115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140687021, "dur":8249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140699724, "dur":96, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708300140695309, "dur":4551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140699952, "dur":2095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140702076, "dur":994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140703167, "dur":8816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140712059, "dur":8997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140721190, "dur":4238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140725581, "dur":4258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140740431, "dur":159, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708300140729919, "dur":10681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140740699, "dur":1832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140743901, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708300140742555, "dur":1412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140743999, "dur":1456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140746646, "dur":143, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708300140745505, "dur":1305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140746898, "dur":1993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140748919, "dur":2008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140788406, "dur":2697, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708300140751012, "dur":40131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140805825, "dur":750, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708300140791367, "dur":15716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140807196, "dur":237, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708300140807449, "dur":17016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140824516, "dur":1628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300140826202, "dur":1475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/projectfinal_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300141020053, "dur":607, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708300140827824, "dur":192940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mixi/Desktop/CarRace/exe/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708300141020866, "dur":156, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":0, "ts":1708300141041200, "dur":2780, "ph":"X", "name": "ProfilerWriteOutput" }
+,
